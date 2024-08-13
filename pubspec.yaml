@@ -1,0 +1,23 @@
+name: ongkos_kirim
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  dio: ^5.5.0+1
+  dropdown_search: ^5.0.6
+  flutter:
+    sdk: flutter
+  get: 4.6.6
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_lints: 4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
